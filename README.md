@@ -1,8 +1,14 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there+!+;I+keep+coding+until+board+games+night+!)](https://git.io/typing-svg)
+
 ## 🤵 About Me:
 
 I'm Lucas, a young french developer from Toulouse ! I'm learning both Front-end and Back-end development (but mostly back-end 😏). Always want to code but I still keep some free time for board games nights 😇 
+
+## 👋 If you want to contact me :
+
+<a href="mailto:lucasragot1@gmail.com"><img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="75px" alt="Gmail"/></a>
 
 # 🛠️ Languages and Tools:
 
