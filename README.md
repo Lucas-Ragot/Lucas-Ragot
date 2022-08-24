@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there+!+;I+keep+coding+until+...;Board+games+night+🎲🎲🎲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there+!+Keep+coding+...;Until+board+games+nights+🎲+🎲+🎲)](https://git.io/typing-svg)
 
 ## 🤵 About Me:
 
