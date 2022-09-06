@@ -14,9 +14,13 @@ I'm Lucas, a young french developer from Toulouse ! I'm learning both Front-end 
 
 <img src="https://img.shields.io/badge/-HTML-red"> <img src="https://img.shields.io/badge/-CSS-blue"> <img src="https://img.shields.io/badge/-JavaScript-yellow">
 
+## 👉 What I'm learning right now
+
+<img src="https://img.shields.io/badge/-PHP-lightgrey">
+
 ## 👉 Back-end
 
-<img src="https://img.shields.io/badge/-PostgreSQL-blue"> <img src="https://img.shields.io/badge/-Sequelize-lightgrey"> <img src="https://img.shields.io/badge/-Express-orange"> <img src="https://img.shields.io/badge/-RegEx-red">
+<img src="https://img.shields.io/badge/-PostgreSQL-blue"> <img src="https://img.shields.io/badge/-Sequelize-lightgrey"> <img src="https://img.shields.io/badge/-Express-orange"> <img src="https://img.shields.io/badge/-RegEx-red"> <img src="https://img.shields.io/badge/-Swagger-lightgrey"> <img src="https://img.shields.io/badge/-Heroku-brightgreen">
 
 ## 👉 Front-end
 
@@ -28,7 +32,7 @@ I'm Lucas, a young french developer from Toulouse ! I'm learning both Front-end 
 
 ## 👉 looking forward to discover
 
-<img src="https://img.shields.io/badge/-React-blue"> <img src="https://img.shields.io/badge/-Three.js-red"> <img src="https://img.shields.io/badge/-Docker-green"> <img src="https://img.shields.io/badge/-Swagger-lightgrey"> <img src="https://img.shields.io/badge/-Jest-yellow"> <img src="https://img.shields.io/badge/-Heroku-brightgreen"> <img src="https://img.shields.io/badge/-Strapi-orange">
+<img src="https://img.shields.io/badge/-React-blue"> <img src="https://img.shields.io/badge/-Three.js-red"> <img src="https://img.shields.io/badge/-Docker-green"> <img src="https://img.shields.io/badge/-Jest-yellow"> <img src="https://img.shields.io/badge/-Strapi-orange"> <img src="https://img.shields.io/badge/-Angular-yellowgreen">
 
 <!--
 **Lucas-Ragot/Lucas-Ragot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
