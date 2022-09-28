@@ -16,7 +16,7 @@ I'm Lucas, a young french developer from Toulouse ! I'm learning both Front-end 
 
 ## 👉 What I'm learning right now
 
-<img src="https://img.shields.io/badge/-PHP-lightgrey">
+<img src="https://img.shields.io/badge/-React-blue"> <img src="https://img.shields.io/badge/-PHP-lightgrey">
 
 ## 👉 Back-end
 
@@ -32,7 +32,7 @@ I'm Lucas, a young french developer from Toulouse ! I'm learning both Front-end 
 
 ## 👉 looking forward to discover
 
-<img src="https://img.shields.io/badge/-React-blue"> <img src="https://img.shields.io/badge/-Three.js-red"> <img src="https://img.shields.io/badge/-Docker-green"> <img src="https://img.shields.io/badge/-Jest-yellow"> <img src="https://img.shields.io/badge/-TypeScript-orange"> <img src="https://img.shields.io/badge/-Angular-yellowgreen">
+ <img src="https://img.shields.io/badge/-Three.js-red"> <img src="https://img.shields.io/badge/-Docker-green"> <img src="https://img.shields.io/badge/-Jest-yellow"> <img src="https://img.shields.io/badge/-TypeScript-orange"> <img src="https://img.shields.io/badge/-Angular-yellowgreen">
 
 <!--
 **Lucas-Ragot/Lucas-Ragot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
