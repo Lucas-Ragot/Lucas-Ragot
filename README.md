@@ -16,7 +16,7 @@ I'm Lucas, a young french developer from Toulouse ! I'm learning both Front-end 
 
 ## 👉 What I'm learning right now
 
-<img src="https://img.shields.io/badge/-React-blue"> <img src="https://img.shields.io/badge/-PHP-lightgrey">
+<img src="https://img.shields.io/badge/-React-yellowgreen"> <img src="https://img.shields.io/badge/-PHP-lightgrey">
 
 ## 👉 Back-end
 
