@@ -20,7 +20,7 @@ I'm Lucas, a young french developer from Toulouse ! I'm learning both Front-end 
 
 ## 👉 Back-end
 
-<img src="https://img.shields.io/badge/-PostgreSQL-blue"> <img src="https://img.shields.io/badge/-Sequelize-lightgrey"> <img src="https://img.shields.io/badge/-Express-orange"> <img src="https://img.shields.io/badge/-RegEx-red"> <img src="https://img.shields.io/badge/-Swagger-lightgrey"> <img src="https://img.shields.io/badge/-Heroku-brightgreen">
+<img src="https://img.shields.io/badge/-Node.js-red"> <img src="https://img.shields.io/badge/-PostgreSQL-blue"> <img src="https://img.shields.io/badge/-Sequelize-lightgrey"> <img src="https://img.shields.io/badge/-Express-orange"> <img src="https://img.shields.io/badge/-RegEx-red"> <img src="https://img.shields.io/badge/-Swagger-lightgrey"> <img src="https://img.shields.io/badge/-Heroku-brightgreen">
 
 ## 👉 Front-end
 
@@ -28,7 +28,7 @@ I'm Lucas, a young french developer from Toulouse ! I'm learning both Front-end 
 
 ## 👉 Environnements and Tools
 
-<img src="https://img.shields.io/badge/-GitHub-yellowgreen"> <img src="https://img.shields.io/badge/-Ubuntu-orange"> <img src="https://img.shields.io/badge/-VSCode-lightgrey"> <img src="https://img.shields.io/badge/-ESLint-brightgreen"> <img src="https://img.shields.io/badge/-Windows-yellow"> <img src="https://img.shields.io/badge/-Npm-blue"> <img src="https://img.shields.io/badge/-Node.js-red">
+<img src="https://img.shields.io/badge/-GitHub-yellowgreen"> <img src="https://img.shields.io/badge/-Ubuntu-orange"> <img src="https://img.shields.io/badge/-VSCode-lightgrey"> <img src="https://img.shields.io/badge/-ESLint-brightgreen"> <img src="https://img.shields.io/badge/-Windows-yellow"> <img src="https://img.shields.io/badge/-Npm-blue">
 
 ## 👉 looking forward to discover
 
